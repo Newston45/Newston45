@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Newston45
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python, JS
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Google
 
 <!---
